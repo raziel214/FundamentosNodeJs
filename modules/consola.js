@@ -12,3 +12,21 @@ var table = [
 ]
 console.log(table);
 console.table(table);
+
+function otraFuncion() {
+    serompe();
+}
+
+function serompe() {
+   return3 + z;
+}
+
+try {
+   otraFuncion();
+} catch(err) {
+   console.error('error en el llamado');
+   console.error(err.message);
+   console.error(err);
+}
+
+console.log('despues de romper');
