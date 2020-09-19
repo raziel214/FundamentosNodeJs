@@ -23,5 +23,5 @@ console.log(gb(os.totalmem())); // ---> Me muestra la memoria disponible del pc.
 console.log('Hostname of any server')
 console.log(os.hostname())
 console.log(os.homedir())
-console.log(os.tmpdir())
+console.log(os.tmpdir ())
 console.log('')
