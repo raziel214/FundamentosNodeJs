@@ -1,0 +1,14 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.4.1"
+  }
+}
